@@ -1,9 +1,0 @@
-{
-    "ph": 12.0,
-    "nitrogen": 56.0,
-    "phosphorus": 45.0,
-    "potassium": 34.0,
-    "organic_matter": 89.0,
-    "soil_moisture": 77.99,
-    "ai_analysis": "**Detected Soil:** Alkaline Soil\n\n**Soil Type:** Not Determined\n\n**Soil Information:** This soil has high pH and high organic matter content. It may require adjustments for optimal plant growth.\n\n**Fertilizer Recommendations:**\n1. Nitrogen: High levels, may not need additional nitrogen\n2. Phosphorus: Moderate levels, may need some phosphorus\n3. Potassium: Moderate levels, may need some potassium\n4. Organic Matter: High levels, can support plant growth\n5. Soil pH: High pH, may need acidification\n6. Micronutrients: May be necessary for optimal plant growth\n\n**Recommended Crops:**\n1. Alfalfa: Tolerates high pH and high soil moisture\n2. Asparagus: Prefers well-drained soil and high organic matter\n3. Barley: Can grow in alkaline soils with high moisture\n4. Beet: Can tolerate high soil pH and moisture\n5. Broccoli: Prefers well-drained soil with high organic matter\n6. Carrot: Can grow in alkaline soils with high moisture"
-}
