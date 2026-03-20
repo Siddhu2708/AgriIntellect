@@ -1,0 +1,10 @@
+streamlit
+streamlit-option-menu
+pandas
+sarvamai
+groq
+fpdf2
+tensorflow
+numpy
+Pillow
+

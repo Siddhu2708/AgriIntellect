@@ -1,0 +1,151 @@
+buyer_id,company,contact_person,phone,state,district,industry_type,residue_required,qty_required_ton,price_offer_ton,pickup_available,latitude,longitude
+B001,Green Biofuel Pvt Ltd,Amit Sharma,9123456701,Maharashtra,Pune,Biomass Plant,Rice Straw,100,2100,Yes,18.5204,73.8567
+B002,Agro Compost Industry,Rajesh Patil,9123456702,Maharashtra,Nashik,Compost Plant,Wheat Straw,80,1900,Yes,19.9975,73.7898
+B003,BioEnergy Solutions,Suresh Gupta,9123456703,Maharashtra,Nagpur,Biomass Plant,Cotton Stalk,120,2000,Yes,21.1458,79.0882
+B004,Organic Fertilizer Ltd,Sunil Deshmukh,9123456704,Maharashtra,Kolhapur,Compost Plant,Sugarcane Trash,90,2050,Yes,16.7050,74.2433
+B005,Green Fuel Industries,Vikas Jadhav,9123456705,Maharashtra,Solapur,Biofuel Plant,Wheat Straw,70,1850,Yes,17.6599,75.9064
+B006,Agri Waste Power Pvt Ltd,Rahul Patil,9123456706,Maharashtra,Sangli,Biomass Plant,Sugarcane Trash,110,2100,Yes,16.8524,74.5815
+B007,Renew BioEnergy,Karan Singh,9123456707,Maharashtra,Satara,Biomass Plant,Rice Straw,95,2000,Yes,17.6805,74.0183
+B008,Green Compost Works,Ashok More,9123456708,Maharashtra,Ahmednagar,Compost Plant,Maize Stover,60,1800,Yes,19.0948,74.7480
+B009,Bio Organic Fertilizers,Nitin Pawar,9123456709,Maharashtra,Jalgaon,Compost Plant,Banana Residue,85,1750,Yes,21.0077,75.5626
+B010,Agro Biomass Energy,Manoj Shinde,9123456710,Maharashtra,Amravati,Biomass Plant,Cotton Stalk,130,2050,Yes,20.9374,77.7796
+B011,Green Power Biofuel,Sachin Patil,9123456711,Maharashtra,Yavatmal,Biofuel Plant,Cotton Stalk,120,2000,Yes,20.3888,78.1204
+B012,Agri Waste Solutions,Rajesh Sharma,9123456712,Maharashtra,Beed,Compost Plant,Soybean Residue,75,1700,Yes,18.9891,75.7601
+B013,BioFuel Agro Ltd,Ajay Deshmukh,9123456713,Maharashtra,Latur,Biofuel Plant,Soybean Residue,90,1750,Yes,18.4088,76.5604
+B014,Green Earth Compost,Vikas Patil,9123456714,Maharashtra,Nanded,Compost Plant,Cotton Stalk,80,1800,Yes,19.1383,77.3210
+B015,Biomass Energy India,Amit Gupta,9123456715,Maharashtra,Aurangabad,Biomass Plant,Maize Stover,110,1950,Yes,19.8762,75.3433
+B016,Organic Waste Energy,Sunil Pawar,9123456716,Maharashtra,Osmanabad,Biofuel Plant,Soybean Residue,85,1700,Yes,18.1861,76.0419
+B017,Green Agro Energy,Sagar Jadhav,9123456717,Maharashtra,Parbhani,Biomass Plant,Cotton Stalk,100,1900,Yes,19.2608,76.7743
+B018,Renewable Fuel Pvt Ltd,Prakash Patil,9123456718,Maharashtra,Washim,Biofuel Plant,Soybean Residue,95,1750,Yes,20.1110,77.1330
+B019,Agro Bio Plant,Rohit Sharma,9123456719,Maharashtra,Buldhana,Biomass Plant,Soybean Residue,90,1750,Yes,20.5292,76.1841
+B020,Bio Green Energy,Sachin More,9123456720,Maharashtra,Akola,Biofuel Plant,Soybean Residue,85,1700,Yes,20.7096,77.0027
+B021,Organic Power Ltd,Nikhil Deshmukh,9123456721,Maharashtra,Wardha,Biomass Plant,Cotton Stalk,100,1900,Yes,20.7453,78.6022
+B022,Green Bio Industries,Ajit Patil,9123456722,Maharashtra,Chandrapur,Biomass Plant,Rice Straw,120,2050,Yes,19.9615,79.2961
+B023,Agro Waste Compost,Rahul Pawar,9123456723,Maharashtra,Gadchiroli,Compost Plant,Rice Straw,90,1900,Yes,20.1809,80.0000
+B024,Bio Renewable Energy,Sagar Patil,9123456724,Maharashtra,Dhule,Biofuel Plant,Wheat Straw,70,1850,Yes,20.9042,74.7749
+B025,Green Organic Compost,Vikas Sharma,9123456725,Maharashtra,Nandurbar,Compost Plant,Maize Stover,60,1800,Yes,21.3660,74.2400
+B026,Biomass Green Energy,Sachin Shinde,9123456726,Maharashtra,Ratnagiri,Biomass Plant,Rice Straw,95,2000,Yes,16.9902,73.3120
+B027,Renew Fuel Industries,Amit Pawar,9123456727,Maharashtra,Sindhudurg,Biofuel Plant,Coconut Residue,75,1800,Yes,16.3492,73.5594
+B028,Agri Bio Power,Nitin Patil,9123456728,Maharashtra,Thane,Biomass Plant,Maize Stover,85,1850,Yes,19.2183,72.9781
+B029,Bio Agro Fertilizers,Rajesh Deshmukh,9123456729,Maharashtra,Palghar,Compost Plant,Rice Straw,80,1900,Yes,19.6967,72.7699
+B030,Green Waste Energy,Ajay Jadhav,9123456730,Maharashtra,Mumbai,Biofuel Plant,Organic Waste,100,2000,Yes,19.0760,72.8777
+B031,Biomass Agro Ltd,Karan Sharma,9123456731,Maharashtra,Pune,Biomass Plant,Sugarcane Trash,120,2100,Yes,18.5204,73.8567
+B032,Organic Compost India,Sachin Pawar,9123456732,Maharashtra,Nashik,Compost Plant,Wheat Straw,80,1900,Yes,19.9975,73.7898
+B033,Renew BioFuel Pvt Ltd,Prakash Jadhav,9123456733,Maharashtra,Nagpur,Biofuel Plant,Cotton Stalk,110,2000,Yes,21.1458,79.0882
+B034,Agri Biomass Energy,Rahul Deshmukh,9123456734,Maharashtra,Kolhapur,Biomass Plant,Sugarcane Trash,100,2050,Yes,16.7050,74.2433
+B035,Bio Green Power,Sunil Patil,9123456735,Maharashtra,Solapur,Biofuel Plant,Wheat Straw,70,1850,Yes,17.6599,75.9064
+B036,Organic Energy Ltd,Ajay Pawar,9123456736,Maharashtra,Sangli,Biomass Plant,Sugarcane Trash,110,2100,Yes,16.8524,74.5815
+B037,Green Agro BioFuel,Rohit Patil,9123456737,Maharashtra,Satara,Biofuel Plant,Rice Straw,90,2000,Yes,17.6805,74.0183
+B038,Bio Waste Compost,Nikhil Pawar,9123456738,Maharashtra,Ahmednagar,Compost Plant,Maize Stover,60,1800,Yes,19.0948,74.7480
+B039,Agro Bio Energy,Sagar Shinde,9123456739,Maharashtra,Jalgaon,Biomass Plant,Banana Residue,85,1750,Yes,21.0077,75.5626
+B040,Green Bio Power,Amit Sharma,9123456740,Maharashtra,Amravati,Biofuel Plant,Cotton Stalk,130,2050,Yes,20.9374,77.7796
+B041,BioFuel Industries India,Rajesh Pawar,9123456741,Maharashtra,Yavatmal,Biofuel Plant,Cotton Stalk,120,2000,Yes,20.3888,78.1204
+B042,Green Renewable Energy,Sunil Jadhav,9123456742,Maharashtra,Beed,Compost Plant,Soybean Residue,75,1700,Yes,18.9891,75.7601
+B043,Biomass Power Pvt Ltd,Ajit Patil,9123456743,Maharashtra,Latur,Biomass Plant,Soybean Residue,90,1750,Yes,18.4088,76.5604
+B044,Organic Waste Fuel,Rahul Patil,9123456744,Maharashtra,Nanded,Biofuel Plant,Cotton Stalk,80,1800,Yes,19.1383,77.3210
+B045,Green Agro Compost,Vikas Pawar,9123456745,Maharashtra,Aurangabad,Compost Plant,Maize Stover,110,1950,Yes,19.8762,75.3433
+B046,Renewable Agro Fuel,Sachin Deshmukh,9123456746,Maharashtra,Osmanabad,Biofuel Plant,Soybean Residue,85,1700,Yes,18.1861,76.0419
+B047,Bio Power Industries,Nitin Sharma,9123456747,Maharashtra,Parbhani,Biomass Plant,Cotton Stalk,100,1900,Yes,19.2608,76.7743
+B048,Green Waste BioFuel,Amit Patil,9123456748,Maharashtra,Washim,Biofuel Plant,Soybean Residue,95,1750,Yes,20.1110,77.1330
+B049,Organic Agro Power,Rohit Pawar,9123456749,Maharashtra,Buldhana,Biomass Plant,Soybean Residue,90,1750,Yes,20.5292,76.1841
+B050,Agri Bio Energy Pvt Ltd,Sagar Patil,9123456750,Maharashtra,Akola,Biofuel Plant,Soybean Residue,85,1700,Yes,20.7096,77.0027
+B051,Agro BioFuel Corp,Ankit Sharma,9123456751,Maharashtra,Pune,Biomass Plant,Maize Stover,110,2000,Yes,18.5300,73.8600
+B052,Green Waste Energy Ltd,Rahul Patil,9123456752,Maharashtra,Nashik,Compost Plant,Wheat Straw,75,1850,Yes,20.0000,73.7900
+B053,Organic Power Systems,Sunil Pawar,9123456753,Maharashtra,Nagpur,Biofuel Plant,Cotton Stalk,120,2050,Yes,21.1500,79.0900
+B054,Biomass Renewable Ltd,Sachin Jadhav,9123456754,Maharashtra,Kolhapur,Biomass Plant,Sugarcane Trash,100,2100,Yes,16.7100,74.2400
+B055,Agri Compost Works,Amit Deshmukh,9123456755,Maharashtra,Solapur,Compost Plant,Wheat Straw,65,1800,Yes,17.6600,75.9100
+B056,Green Energy Agro,Sagar Shinde,9123456756,Maharashtra,Sangli,Biofuel Plant,Sugarcane Trash,115,2100,Yes,16.8600,74.5800
+B057,Bio Renewable Agro,Kunal Patil,9123456757,Maharashtra,Satara,Biomass Plant,Rice Straw,90,2000,Yes,17.6900,74.0200
+B058,Organic BioWaste Ltd,Prakash Pawar,9123456758,Maharashtra,Ahmednagar,Compost Plant,Maize Stover,70,1850,Yes,19.1000,74.7500
+B059,Bio Green Fertilizer,Nitin More,9123456759,Maharashtra,Jalgaon,Compost Plant,Banana Residue,80,1750,Yes,21.0100,75.5600
+B060,Agro Power BioFuel,Rohit Sharma,9123456760,Maharashtra,Amravati,Biofuel Plant,Cotton Stalk,125,2050,Yes,20.9400,77.7800
+B061,Renew BioEnergy Corp,Ajay Patil,9123456761,Maharashtra,Yavatmal,Biofuel Plant,Cotton Stalk,115,2000,Yes,20.3900,78.1200
+B062,Organic Agro Compost,Vikas Pawar,9123456762,Maharashtra,Beed,Compost Plant,Soybean Residue,70,1700,Yes,18.9900,75.7600
+B063,Green Fuel Industries Ltd,Sachin Deshmukh,9123456763,Maharashtra,Latur,Biofuel Plant,Soybean Residue,85,1750,Yes,18.4100,76.5600
+B064,Bio Agro Renewable,Sagar Patil,9123456764,Maharashtra,Nanded,Biomass Plant,Cotton Stalk,90,1800,Yes,19.1400,77.3200
+B065,Agro Bio Waste Plant,Rahul Shinde,9123456765,Maharashtra,Aurangabad,Biomass Plant,Maize Stover,105,1950,Yes,19.8800,75.3400
+B066,Green Earth BioFuel,Nikhil Pawar,9123456766,Maharashtra,Osmanabad,Biofuel Plant,Soybean Residue,80,1700,Yes,18.1900,76.0400
+B067,Organic Biomass Energy,Sunil Patil,9123456767,Maharashtra,Parbhani,Biomass Plant,Cotton Stalk,95,1900,Yes,19.2600,76.7700
+B068,Renew Agro Industries,Akash Jadhav,9123456768,Maharashtra,Washim,Biofuel Plant,Soybean Residue,90,1750,Yes,20.1100,77.1300
+B069,Green BioFuel Plant,Ramesh Pawar,9123456769,Maharashtra,Buldhana,Biomass Plant,Soybean Residue,85,1750,Yes,20.5300,76.1800
+B070,Bio Renewable Power,Santosh Shinde,9123456770,Maharashtra,Akola,Biofuel Plant,Soybean Residue,80,1700,Yes,20.7100,77.0000
+B071,Agro Biomass Solutions,Rohit Patil,9123456771,Maharashtra,Wardha,Biomass Plant,Cotton Stalk,95,1900,Yes,20.7500,78.6000
+B072,Green BioPower India,Sagar Pawar,9123456772,Maharashtra,Chandrapur,Biofuel Plant,Rice Straw,110,2050,Yes,19.9600,79.3000
+B073,Organic Waste BioPlant,Amit Patil,9123456773,Maharashtra,Gadchiroli,Compost Plant,Rice Straw,85,1900,Yes,20.1800,80.0000
+B074,Biomass Fuel Industries,Ajit Sharma,9123456774,Maharashtra,Dhule,Biofuel Plant,Wheat Straw,70,1850,Yes,20.9000,74.7700
+B075,Agro Renewable Compost,Nitin Jadhav,9123456775,Maharashtra,Nandurbar,Compost Plant,Maize Stover,65,1800,Yes,21.3600,74.2400
+B076,Green Organic BioFuel,Rahul Patil,9123456776,Maharashtra,Ratnagiri,Biofuel Plant,Rice Straw,90,2000,Yes,16.9900,73.3100
+B077,BioFuel Energy Systems,Sachin Pawar,9123456777,Maharashtra,Sindhudurg,Biofuel Plant,Coconut Residue,70,1800,Yes,16.3500,73.5600
+B078,Agro Waste Energy Ltd,Prakash More,9123456778,Maharashtra,Thane,Biomass Plant,Maize Stover,80,1850,Yes,19.2200,72.9800
+B079,Organic Bio Compost,Ramesh Deshmukh,9123456779,Maharashtra,Palghar,Compost Plant,Rice Straw,75,1900,Yes,19.6900,72.7700
+B080,Green Waste Fuel Ltd,Vikas Patil,9123456780,Maharashtra,Mumbai,Biofuel Plant,Organic Waste,100,2000,Yes,19.0760,72.8777
+B081,Bio Agro Power,Sagar Sharma,9123456781,Maharashtra,Pune,Biomass Plant,Sugarcane Trash,115,2100,Yes,18.5200,73.8500
+B082,Organic Fuel Industries,Ajay Patil,9123456782,Maharashtra,Nashik,Compost Plant,Wheat Straw,80,1900,Yes,20.0000,73.7900
+B083,Renew BioFuel Systems,Rohit Pawar,9123456783,Maharashtra,Nagpur,Biofuel Plant,Cotton Stalk,120,2000,Yes,21.1500,79.0800
+B084,Agro Biomass Corp,Nikhil Patil,9123456784,Maharashtra,Kolhapur,Biomass Plant,Sugarcane Trash,105,2100,Yes,16.7000,74.2400
+B085,Green Organic Energy,Amit Pawar,9123456785,Maharashtra,Solapur,Biofuel Plant,Wheat Straw,70,1850,Yes,17.6600,75.9100
+B086,Bio Waste Fuel Ltd,Sachin Patil,9123456786,Maharashtra,Sangli,Biomass Plant,Sugarcane Trash,110,2100,Yes,16.8500,74.5800
+B087,Agro Renewable BioPlant,Rahul Shinde,9123456787,Maharashtra,Satara,Biofuel Plant,Rice Straw,90,2000,Yes,17.6800,74.0200
+B088,Organic Biomass Fuel,Nitin Pawar,9123456788,Maharashtra,Ahmednagar,Compost Plant,Maize Stover,70,1800,Yes,19.0900,74.7400
+B089,Green Energy Compost,Sagar Deshmukh,9123456789,Maharashtra,Jalgaon,Compost Plant,Banana Residue,80,1750,Yes,21.0000,75.5600
+B090,BioFuel Renewable India,Rajesh Patil,9123456790,Maharashtra,Amravati,Biofuel Plant,Cotton Stalk,120,2050,Yes,20.9300,77.7800
+B091,Agro BioPower Ltd,Sunil Pawar,9123456791,Maharashtra,Yavatmal,Biomass Plant,Cotton Stalk,110,2000,Yes,20.3900,78.1200
+B092,Organic Agro Fuel,Ramesh Sharma,9123456792,Maharashtra,Beed,Compost Plant,Soybean Residue,75,1700,Yes,18.9800,75.7600
+B093,Green Biomass Solutions,Vikas Patil,9123456793,Maharashtra,Latur,Biofuel Plant,Soybean Residue,85,1750,Yes,18.4100,76.5600
+B094,Renew BioEnergy Plant,Sachin Deshmukh,9123456794,Maharashtra,Nanded,Biomass Plant,Cotton Stalk,90,1800,Yes,19.1400,77.3200
+B095,Bio Agro Renewable Ltd,Nikhil Pawar,9123456795,Maharashtra,Aurangabad,Biofuel Plant,Maize Stover,100,1950,Yes,19.8800,75.3400
+B096,Organic Waste Energy Corp,Ajay Patil,9123456796,Maharashtra,Osmanabad,Biofuel Plant,Soybean Residue,80,1700,Yes,18.1800,76.0400
+B097,Green Agro Biomass,Sagar Patil,9123456797,Maharashtra,Parbhani,Biomass Plant,Cotton Stalk,95,1900,Yes,19.2600,76.7700
+B098,Bio Renewable Compost,Rahul Pawar,9123456798,Maharashtra,Washim,Biofuel Plant,Soybean Residue,90,1750,Yes,20.1100,77.1300
+B099,Agro Waste BioPlant,Prakash Shinde,9123456799,Maharashtra,Buldhana,Biomass Plant,Soybean Residue,85,1750,Yes,20.5300,76.1800
+B100,Green BioEnergy Pvt Ltd,Ankit Patil,9123456800,Maharashtra,Akola,Biofuel Plant,Soybean Residue,80,1700,Yes,20.7100,77.0000
+B101,Agro BioEnergy Ltd,Rahul Patil,9123456801,Maharashtra,Pune,Biofuel Plant,Sugarcane Trash,120,2100,Yes,18.5200,73.8500
+B102,Green Biomass Industries,Sachin Pawar,9123456802,Maharashtra,Nashik,Biomass Plant,Rice Straw,100,2000,Yes,20.0000,73.7900
+B103,Organic Waste BioPlant,Nikhil Sharma,9123456803,Maharashtra,Nagpur,Biofuel Plant,Cotton Stalk,115,2050,Yes,21.1500,79.0800
+B104,BioFuel Energy Pvt Ltd,Amit Patil,9123456804,Maharashtra,Kolhapur,Biomass Plant,Sugarcane Trash,110,2100,Yes,16.7000,74.2400
+B105,Agro Renewable Power,Ramesh Pawar,9123456805,Maharashtra,Solapur,Compost Plant,Wheat Straw,75,1850,Yes,17.6600,75.9100
+B106,Green Organic Fuel,Sagar Shinde,9123456806,Maharashtra,Sangli,Biofuel Plant,Sugarcane Trash,120,2100,Yes,16.8500,74.5800
+B107,Biomass Energy Solutions,Ajay Deshmukh,9123456807,Maharashtra,Satara,Biomass Plant,Rice Straw,95,2000,Yes,17.6800,74.0200
+B108,Organic Bio Compost Ltd,Vikas Pawar,9123456808,Maharashtra,Ahmednagar,Compost Plant,Maize Stover,80,1850,Yes,19.0900,74.7400
+B109,Bio Agro Energy Corp,Sunil Patil,9123456809,Maharashtra,Jalgaon,Compost Plant,Banana Residue,85,1800,Yes,21.0000,75.5600
+B110,Green Fuel Systems,Rohit Sharma,9123456810,Maharashtra,Amravati,Biofuel Plant,Cotton Stalk,125,2050,Yes,20.9300,77.7800
+B111,Renew BioFuel India,Sachin Patil,9123456811,Maharashtra,Yavatmal,Biomass Plant,Cotton Stalk,110,2000,Yes,20.3900,78.1200
+B112,Organic Agro Waste,Rahul Pawar,9123456812,Maharashtra,Beed,Compost Plant,Soybean Residue,75,1700,Yes,18.9800,75.7600
+B113,Green Energy BioPlant,Nitin Patil,9123456813,Maharashtra,Latur,Biofuel Plant,Soybean Residue,90,1750,Yes,18.4100,76.5600
+B114,Agro Biomass Energy,Sagar Pawar,9123456814,Maharashtra,Nanded,Biomass Plant,Cotton Stalk,95,1850,Yes,19.1400,77.3200
+B115,Bio Renewable Solutions,Ajit Sharma,9123456815,Maharashtra,Aurangabad,Biofuel Plant,Maize Stover,105,1950,Yes,19.8800,75.3400
+B116,Organic Fuel Systems,Amit Pawar,9123456816,Maharashtra,Osmanabad,Biofuel Plant,Soybean Residue,85,1700,Yes,18.1800,76.0400
+B117,Green Agro BioFuel,Ramesh Patil,9123456817,Maharashtra,Parbhani,Biomass Plant,Cotton Stalk,100,1900,Yes,19.2600,76.7700
+B118,Biomass Power Corp,Sunil Deshmukh,9123456818,Maharashtra,Washim,Biofuel Plant,Soybean Residue,90,1750,Yes,20.1100,77.1300
+B119,Agro Waste BioEnergy,Sachin Pawar,9123456819,Maharashtra,Buldhana,Biomass Plant,Soybean Residue,85,1750,Yes,20.5300,76.1800
+B120,Green Renewable Fuel,Nikhil Patil,9123456820,Maharashtra,Akola,Biofuel Plant,Soybean Residue,80,1700,Yes,20.7100,77.0000
+B121,BioFuel Green Energy,Rahul Sharma,9123456821,Maharashtra,Wardha,Biomass Plant,Cotton Stalk,95,1900,Yes,20.7500,78.6000
+B122,Agro Biomass India,Sagar Patil,9123456822,Maharashtra,Chandrapur,Biofuel Plant,Rice Straw,110,2050,Yes,19.9600,79.3000
+B123,Organic BioFuel Corp,Vikas Pawar,9123456823,Maharashtra,Gadchiroli,Compost Plant,Rice Straw,85,1900,Yes,20.1800,80.0000
+B124,Green Energy Waste Ltd,Ajay Patil,9123456824,Maharashtra,Dhule,Biofuel Plant,Wheat Straw,75,1850,Yes,20.9000,74.7700
+B125,Biomass Renewable Systems,Rohit Pawar,9123456825,Maharashtra,Nandurbar,Compost Plant,Maize Stover,70,1800,Yes,21.3600,74.2400
+B126,Agro Organic Fuel,Sachin Shinde,9123456826,Maharashtra,Ratnagiri,Biofuel Plant,Rice Straw,90,2000,Yes,16.9900,73.3100
+B127,BioWaste Energy Plant,Nitin Patil,9123456827,Maharashtra,Sindhudurg,Biofuel Plant,Coconut Residue,70,1800,Yes,16.3500,73.5600
+B128,Green Agro Compost,Ramesh Pawar,9123456828,Maharashtra,Thane,Biomass Plant,Maize Stover,85,1850,Yes,19.2200,72.9800
+B129,Organic Renewable Bio,Amit Patil,9123456829,Maharashtra,Palghar,Compost Plant,Rice Straw,75,1900,Yes,19.6900,72.7700
+B130,Agro BioFuel Systems,Sagar Pawar,9123456830,Maharashtra,Mumbai,Biofuel Plant,Organic Waste,100,2000,Yes,19.0760,72.8777
+B131,Green Biomass Fuel,Nikhil Sharma,9123456831,Maharashtra,Pune,Biomass Plant,Sugarcane Trash,115,2100,Yes,18.5200,73.8500
+B132,Agro Waste Renewable,Rahul Patil,9123456832,Maharashtra,Nashik,Compost Plant,Wheat Straw,85,1900,Yes,20.0000,73.7900
+B133,BioEnergy Agro Ltd,Sachin Pawar,9123456833,Maharashtra,Nagpur,Biofuel Plant,Cotton Stalk,120,2050,Yes,21.1500,79.0800
+B134,Organic Agro Fuel Plant,Vikas Patil,9123456834,Maharashtra,Kolhapur,Biomass Plant,Sugarcane Trash,105,2100,Yes,16.7000,74.2400
+B135,Green Waste BioFuel,Rohit Sharma,9123456835,Maharashtra,Solapur,Biofuel Plant,Wheat Straw,75,1850,Yes,17.6600,75.9100
+B136,Biomass Energy India,Amit Pawar,9123456836,Maharashtra,Sangli,Biomass Plant,Sugarcane Trash,110,2100,Yes,16.8500,74.5800
+B137,Agro Renewable BioFuel,Sagar Patil,9123456837,Maharashtra,Satara,Biofuel Plant,Rice Straw,95,2000,Yes,17.6800,74.0200
+B138,Green Bio Compost Plant,Ajay Deshmukh,9123456838,Maharashtra,Ahmednagar,Compost Plant,Maize Stover,80,1850,Yes,19.0900,74.7400
+B139,Organic Waste Fuel Ltd,Nitin Patil,9123456839,Maharashtra,Jalgaon,Compost Plant,Banana Residue,85,1800,Yes,21.0000,75.5600
+B140,Bio Renewable Agro Corp,Rahul Pawar,9123456840,Maharashtra,Amravati,Biofuel Plant,Cotton Stalk,120,2050,Yes,20.9300,77.7800
+B141,Green BioEnergy Solutions,Sachin Patil,9123456841,Maharashtra,Yavatmal,Biomass Plant,Cotton Stalk,110,2000,Yes,20.3900,78.1200
+B142,Agro Organic Waste Ltd,Ramesh Pawar,9123456842,Maharashtra,Beed,Compost Plant,Soybean Residue,75,1700,Yes,18.9800,75.7600
+B143,BioFuel Agro Systems,Nikhil Patil,9123456843,Maharashtra,Latur,Biofuel Plant,Soybean Residue,90,1750,Yes,18.4100,76.5600
+B144,Green Renewable Biomass,Amit Sharma,9123456844,Maharashtra,Nanded,Biomass Plant,Cotton Stalk,95,1850,Yes,19.1400,77.3200
+B145,Organic BioEnergy Corp,Sagar Pawar,9123456845,Maharashtra,Aurangabad,Biofuel Plant,Maize Stover,105,1950,Yes,19.8800,75.3400
+B146,Bio Waste Renewable,Rohit Patil,9123456846,Maharashtra,Osmanabad,Biofuel Plant,Soybean Residue,85,1700,Yes,18.1800,76.0400
+B147,Agro Green BioFuel,Vikas Pawar,9123456847,Maharashtra,Parbhani,Biomass Plant,Cotton Stalk,100,1900,Yes,19.2600,76.7700
+B148,Biomass Fuel Plant Ltd,Sunil Deshmukh,9123456848,Maharashtra,Washim,Biofuel Plant,Soybean Residue,90,1750,Yes,20.1100,77.1300
+B149,Renew BioEnergy Systems,Ajay Patil,9123456849,Maharashtra,Buldhana,Biomass Plant,Soybean Residue,85,1750,Yes,20.5300,76.1800
+B150,Green Agro BioEnergy,Rahul Sharma,9123456850,Maharashtra,Akola,Biofuel Plant,Soybean Residue,80,1700,Yes,20.7100,77.0000
