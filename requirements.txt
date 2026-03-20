@@ -4,7 +4,6 @@ pandas
 sarvamai
 groq
 fpdf2
-tensorflow
 numpy
 Pillow
 
