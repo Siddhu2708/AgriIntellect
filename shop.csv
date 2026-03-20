@@ -1,0 +1,151 @@
+shop_id,shop_name,state,district,shop_type,products_available,contact_number,latitude,longitude,rating
+F001,Kisan Agro Center,Maharashtra,Nashik,Both,Fertilizer Seeds Pesticide,9876501001,19.9975,73.7898,4.5
+F002,Green Field Agro Store,Maharashtra,Pune,Both,Fertilizer Pesticide Seeds,9876501002,18.5204,73.8567,4.3
+F003,Farmer Care Agro,Maharashtra,Nagpur,Pesticide Shop,Pesticide Crop Medicine,9876501003,21.1458,79.0882,4.4
+F004,Krushi Seva Kendra,Maharashtra,Ahmednagar,Fertilizer Shop,Fertilizer Seeds,9876501004,19.0946,74.7480,4.2
+F005,Agro Crop Solution,Maharashtra,Solapur,Both,Fertilizer Pesticide Seeds Tools,9876501005,17.6599,75.9064,4.1
+F006,Modern Agro Shop,Maharashtra,Kolhapur,Both,Fertilizer Seeds Pesticide,9876501006,16.7050,74.2433,4.3
+F007,Smart Kisan Agro,Maharashtra,Sangli,Both,Fertilizer Pesticide Seeds,9876501007,16.8524,74.5815,4.0
+F008,Agro Farmer Point,Maharashtra,Satara,Fertilizer Shop,Fertilizer Seeds,9876501008,17.6805,74.0183,4.2
+F009,Kisan Pesticide Store,Maharashtra,Jalgaon,Pesticide Shop,Pesticide Crop Medicine,9876501009,21.0077,75.5626,4.1
+F010,Green Crop Agro,Maharashtra,Amravati,Both,Fertilizer Seeds Pesticide,9876501010,20.9374,77.7796,4.4
+F011,Shree Agro Mart,Maharashtra,Yavatmal,Both,Fertilizer Seeds Pesticide,9876501011,20.3899,78.1307,4.3
+F012,Kisan Krushi Center,Maharashtra,Buldhana,Fertilizer Shop,Fertilizer Seeds,9876501012,20.5290,76.1842,4.0
+F013,Agro Farm Solutions,Maharashtra,Akola,Both,Fertilizer Pesticide Seeds,9876501013,20.7002,77.0082,4.2
+F014,Organic Agro Store,Maharashtra,Wardha,Both,Fertilizer Organic Pesticide,9876501014,20.7453,78.6022,4.5
+F015,Krushi Agro Point,Maharashtra,Chandrapur,Pesticide Shop,Pesticide Crop Medicine,9876501015,19.9615,79.2961,4.1
+F016,Farmer Support Agro,Maharashtra,Gadchiroli,Both,Fertilizer Seeds Pesticide,9876501016,20.1809,80.0030,4.0
+F017,Agro Care Center,Maharashtra,Dhule,Both,Fertilizer Seeds Pesticide,9876501017,20.9042,74.7749,4.2
+F018,Kisan Crop Store,Maharashtra,Nandurbar,Fertilizer Shop,Fertilizer Seeds,9876501018,21.3655,74.2400,4.0
+F019,Green Agro Mart,Maharashtra,Thane,Both,Fertilizer Seeds Pesticide,9876501019,19.2183,72.9781,4.4
+F020,Farmer Agro Hub,Maharashtra,Palghar,Both,Fertilizer Pesticide Seeds,9876501020,19.6967,72.7699,4.3
+F021,Krushi Agro Service,Maharashtra,Ratnagiri,Both,Fertilizer Seeds Pesticide,9876501021,16.9902,73.3120,4.1
+F022,Kisan Agro Support,Maharashtra,Sindhudurg,Both,Fertilizer Pesticide Seeds,9876501022,16.3492,73.5594,4.0
+F023,Agro Growth Center,Maharashtra,Aurangabad,Both,Fertilizer Seeds Pesticide,9876501023,19.8762,75.3433,4.3
+F024,Smart Farmer Agro,Maharashtra,Latur,Both,Fertilizer Seeds Pesticide,9876501024,18.4088,76.5604,4.2
+F025,Krushi Agro Mart,Maharashtra,Beed,Fertilizer Shop,Fertilizer Seeds,9876501025,18.9891,75.7601,4.0
+F026,Green Crop Support,Maharashtra,Osmanabad,Both,Fertilizer Seeds Pesticide,9876501026,18.1860,76.0419,4.1
+F027,Kisan Farm Center,Maharashtra,Nanded,Both,Fertilizer Pesticide Seeds,9876501027,19.1383,77.3210,4.3
+F028,Agro Field Shop,Maharashtra,Parbhani,Both,Fertilizer Seeds Pesticide,9876501028,19.2644,76.7740,4.2
+F029,Krushi Seva Agro,Maharashtra,Washim,Fertilizer Shop,Fertilizer Seeds,9876501029,20.1110,77.1340,4.0
+F030,Modern Kisan Agro,Maharashtra,Mumbai,Both,Fertilizer Seeds Pesticide Tools,9876501030,19.0760,72.8777,4.4
+F031,Agro Crop Center,Gujarat,Surat,Both,Fertilizer Seeds Pesticide,9876501031,21.1702,72.8311,4.2
+F032,Kisan Agro Service,Gujarat,Vadodara,Both,Fertilizer Seeds Pesticide,9876501032,22.3072,73.1812,4.3
+F033,Green Field Shop,Gujarat,Rajkot,Both,Fertilizer Pesticide Seeds,9876501033,22.3039,70.8022,4.1
+F034,Farmer Agro Care,Gujarat,Ahmedabad,Both,Fertilizer Seeds Pesticide,9876501034,23.0225,72.5714,4.4
+F035,Krushi Agro Mart,Gujarat,Bhavnagar,Fertilizer Shop,Fertilizer Seeds,9876501035,21.7645,72.1519,4.0
+F036,Kisan Crop Center,Karnataka,Belagavi,Both,Fertilizer Seeds Pesticide,9876501036,15.8497,74.4977,4.2
+F037,Agro Farmer Hub,Karnataka,Dharwad,Both,Fertilizer Seeds Pesticide,9876501037,15.4589,75.0078,4.1
+F038,Green Agro Solutions,Karnataka,Hubli,Both,Fertilizer Seeds Pesticide,9876501038,15.3647,75.1240,4.3
+F039,Farmer Care Agro,Karnataka,Vijayapura,Both,Fertilizer Seeds Pesticide,9876501039,16.8302,75.7100,4.0
+F040,Kisan Agro Store,Karnataka,Gadag,Both,Fertilizer Seeds Pesticide,9876501040,15.4298,75.6340,4.1
+F041,Agro Crop Mart,Madhya Pradesh,Indore,Both,Fertilizer Seeds Pesticide,9876501041,22.7196,75.8577,4.3
+F042,Green Farm Center,Madhya Pradesh,Bhopal,Both,Fertilizer Seeds Pesticide,9876501042,23.2599,77.4126,4.4
+F043,Kisan Agro Hub,Madhya Pradesh,Gwalior,Both,Fertilizer Seeds Pesticide,9876501043,26.2183,78.1828,4.2
+F044,Agro Smart Shop,Madhya Pradesh,Jabalpur,Both,Fertilizer Seeds Pesticide,9876501044,23.1815,79.9864,4.1
+F045,Krushi Crop Center,Madhya Pradesh,Ujjain,Both,Fertilizer Seeds Pesticide,9876501045,23.1765,75.7885,4.0
+F046,Green Agro Store,Punjab,Ludhiana,Both,Fertilizer Seeds Pesticide,9876501046,30.9000,75.8573,4.4
+F047,Kisan Agro Mart,Punjab,Amritsar,Both,Fertilizer Seeds Pesticide,9876501047,31.6340,74.8723,4.3
+F048,Farmer Crop Center,Punjab,Patiala,Both,Fertilizer Seeds Pesticide,9876501048,30.3398,76.3869,4.2
+F049,Agro Field Hub,Haryana,Karnal,Both,Fertilizer Seeds Pesticide,9876501049,29.6857,76.9905,4.1
+F050,Krushi Agro Shop,Haryana,Hisar,Both,Fertilizer Seeds Pesticide,9876501050,29.1492,75.7217,4.0
+F051,Agro Growth Hub,Maharashtra,Nashik,Both,Fertilizer Seeds Pesticide,9876501051,19.9980,73.7901,4.2
+F052,Krushi Agro Center,Maharashtra,Pune,Both,Fertilizer Seeds Pesticide Tools,9876501052,18.5210,73.8570,4.4
+F053,Green Crop Mart,Maharashtra,Nagpur,Pesticide Shop,Pesticide Crop Medicine,9876501053,21.1462,79.0886,4.3
+F054,Kisan Agro Service,Maharashtra,Ahmednagar,Fertilizer Shop,Fertilizer Seeds,9876501054,19.0950,74.7485,4.1
+F055,Modern Farmer Agro,Maharashtra,Solapur,Both,Fertilizer Seeds Pesticide,9876501055,17.6603,75.9069,4.0
+F056,Agro Care Hub,Maharashtra,Kolhapur,Both,Fertilizer Seeds Pesticide,9876501056,16.7054,74.2438,4.2
+F057,Krushi Crop Point,Maharashtra,Sangli,Both,Fertilizer Pesticide Seeds,9876501057,16.8528,74.5820,4.1
+F058,Kisan Field Store,Maharashtra,Satara,Fertilizer Shop,Fertilizer Seeds,9876501058,17.6810,74.0189,4.0
+F059,Agro Crop Medicine,Maharashtra,Jalgaon,Pesticide Shop,Pesticide Crop Medicine,9876501059,21.0081,75.5630,4.3
+F060,Farmer Agro Support,Maharashtra,Amravati,Both,Fertilizer Seeds Pesticide,9876501060,20.9379,77.7801,4.4
+F061,Green Farm Agro,Maharashtra,Yavatmal,Both,Fertilizer Seeds Pesticide,9876501061,20.3904,78.1312,4.1
+F062,Krushi Agro Mart,Maharashtra,Buldhana,Fertilizer Shop,Fertilizer Seeds,9876501062,20.5295,76.1847,4.0
+F063,Agro Smart Center,Maharashtra,Akola,Both,Fertilizer Seeds Pesticide,9876501063,20.7007,77.0088,4.2
+F064,Kisan Organic Agro,Maharashtra,Wardha,Both,Organic Fertilizer Pesticide,9876501064,20.7459,78.6028,4.5
+F065,Agro Crop Protection,Maharashtra,Chandrapur,Pesticide Shop,Pesticide Crop Medicine,9876501065,19.9620,79.2966,4.1
+F066,Krushi Agro Support,Maharashtra,Gadchiroli,Both,Fertilizer Seeds Pesticide,9876501066,20.1814,80.0036,4.0
+F067,Farmer Agro Care,Maharashtra,Dhule,Both,Fertilizer Seeds Pesticide,9876501067,20.9048,74.7754,4.2
+F068,Green Agro Field,Maharashtra,Nandurbar,Fertilizer Shop,Fertilizer Seeds,9876501068,21.3660,74.2405,4.0
+F069,Modern Agro Mart,Maharashtra,Thane,Both,Fertilizer Seeds Pesticide,9876501069,19.2188,72.9786,4.3
+F070,Kisan Agro Hub,Maharashtra,Palghar,Both,Fertilizer Seeds Pesticide,9876501070,19.6972,72.7704,4.2
+F071,Krushi Crop Store,Maharashtra,Ratnagiri,Both,Fertilizer Seeds Pesticide,9876501071,16.9908,73.3126,4.1
+F072,Green Agro Center,Maharashtra,Sindhudurg,Both,Fertilizer Seeds Pesticide,9876501072,16.3498,73.5600,4.0
+F073,Kisan Farm Mart,Maharashtra,Aurangabad,Both,Fertilizer Seeds Pesticide,9876501073,19.8767,75.3439,4.4
+F074,Agro Crop Support,Maharashtra,Latur,Both,Fertilizer Seeds Pesticide,9876501074,18.4094,76.5610,4.2
+F075,Krushi Agro Field,Maharashtra,Beed,Fertilizer Shop,Fertilizer Seeds,9876501075,18.9897,75.7607,4.0
+F076,Farmer Crop Solutions,Maharashtra,Osmanabad,Both,Fertilizer Seeds Pesticide,9876501076,18.1866,76.0425,4.1
+F077,Kisan Agro Care,Maharashtra,Nanded,Both,Fertilizer Seeds Pesticide,9876501077,19.1389,77.3216,4.3
+F078,Green Farm Crop,Maharashtra,Parbhani,Both,Fertilizer Seeds Pesticide,9876501078,19.2650,76.7746,4.2
+F079,Krushi Agro Services,Maharashtra,Washim,Fertilizer Shop,Fertilizer Seeds,9876501079,20.1116,77.1346,4.0
+F080,Agro Farmer Store,Maharashtra,Mumbai,Both,Fertilizer Seeds Pesticide Tools,9876501080,19.0766,72.8783,4.4
+F081,Green Crop Agro,Gujarat,Surat,Both,Fertilizer Seeds Pesticide,9876501081,21.1708,72.8317,4.2
+F082,Kisan Agro Point,Gujarat,Vadodara,Both,Fertilizer Seeds Pesticide,9876501082,22.3078,73.1818,4.3
+F083,Krushi Crop Mart,Gujarat,Rajkot,Both,Fertilizer Seeds Pesticide,9876501083,22.3045,70.8028,4.1
+F084,Agro Field Center,Gujarat,Ahmedabad,Both,Fertilizer Seeds Pesticide,9876501084,23.0231,72.5720,4.4
+F085,Kisan Farm Support,Gujarat,Bhavnagar,Fertilizer Shop,Fertilizer Seeds,9876501085,21.7651,72.1525,4.0
+F086,Green Agro Hub,Karnataka,Belagavi,Both,Fertilizer Seeds Pesticide,9876501086,15.8503,74.4983,4.2
+F087,Krushi Agro Mart,Karnataka,Dharwad,Both,Fertilizer Seeds Pesticide,9876501087,15.4595,75.0084,4.1
+F088,Agro Crop Care,Karnataka,Hubli,Both,Fertilizer Seeds Pesticide,9876501088,15.3653,75.1246,4.3
+F089,Kisan Crop Agro,Karnataka,Vijayapura,Both,Fertilizer Seeds Pesticide,9876501089,16.8308,75.7106,4.0
+F090,Farmer Agro Field,Karnataka,Gadag,Both,Fertilizer Seeds Pesticide,9876501090,15.4304,75.6346,4.1
+F091,Green Crop Solutions,Madhya Pradesh,Indore,Both,Fertilizer Seeds Pesticide,9876501091,22.7202,75.8583,4.3
+F092,Krushi Agro Hub,Madhya Pradesh,Bhopal,Both,Fertilizer Seeds Pesticide,9876501092,23.2605,77.4132,4.4
+F093,Agro Farm Mart,Madhya Pradesh,Gwalior,Both,Fertilizer Seeds Pesticide,9876501093,26.2189,78.1834,4.2
+F094,Kisan Agro Field,Madhya Pradesh,Jabalpur,Both,Fertilizer Seeds Pesticide,9876501094,23.1821,79.9870,4.1
+F095,Green Farm Support,Madhya Pradesh,Ujjain,Both,Fertilizer Seeds Pesticide,9876501095,23.1771,75.7891,4.0
+F096,Agro Crop Center,Punjab,Ludhiana,Both,Fertilizer Seeds Pesticide,9876501096,30.9006,75.8579,4.4
+F097,Kisan Agro Services,Punjab,Amritsar,Both,Fertilizer Seeds Pesticide,9876501097,31.6346,74.8729,4.3
+F098,Green Crop Store,Punjab,Patiala,Both,Fertilizer Seeds Pesticide,9876501098,30.3404,76.3875,4.2
+F099,Agro Field Mart,Haryana,Karnal,Both,Fertilizer Seeds Pesticide,9876501099,29.6863,76.9911,4.1
+F100,Kisan Crop Hub,Haryana,Hisar,Both,Fertilizer Seeds Pesticide,9876501100,29.1498,75.7223,4.0
+F101,Agro Farmer Hub,Maharashtra,Pune,Both,Fertilizer Seeds Pesticide,9876501101,18.5220,73.8580,4.3
+F102,Kisan Agro Point,Maharashtra,Nashik,Both,Fertilizer Seeds Pesticide,9876501102,19.9990,73.7910,4.2
+F103,Green Crop Agro,Maharashtra,Nagpur,Pesticide Shop,Pesticide Crop Medicine,9876501103,21.1470,79.0890,4.4
+F104,Krushi Seva Mart,Maharashtra,Ahmednagar,Fertilizer Shop,Fertilizer Seeds,9876501104,19.0960,74.7490,4.1
+F105,Farmer Crop Care,Maharashtra,Solapur,Both,Fertilizer Seeds Pesticide,9876501105,17.6610,75.9075,4.0
+F106,Modern Agro Service,Maharashtra,Kolhapur,Both,Fertilizer Seeds Pesticide,9876501106,16.7060,74.2440,4.2
+F107,Agro Smart Store,Maharashtra,Sangli,Both,Fertilizer Pesticide Seeds,9876501107,16.8535,74.5828,4.1
+F108,Kisan Agro Field,Maharashtra,Satara,Fertilizer Shop,Fertilizer Seeds,9876501108,17.6820,74.0195,4.0
+F109,Green Agro Medicine,Maharashtra,Jalgaon,Pesticide Shop,Pesticide Crop Medicine,9876501109,21.0090,75.5635,4.3
+F110,Krushi Agro Support,Maharashtra,Amravati,Both,Fertilizer Seeds Pesticide,9876501110,20.9385,77.7808,4.4
+F111,Kisan Agro Mart,Maharashtra,Yavatmal,Both,Fertilizer Seeds Pesticide,9876501111,20.3910,78.1318,4.2
+F112,Agro Crop Hub,Maharashtra,Buldhana,Fertilizer Shop,Fertilizer Seeds,9876501112,20.5300,76.1852,4.0
+F113,Green Farmer Agro,Maharashtra,Akola,Both,Fertilizer Seeds Pesticide,9876501113,20.7015,77.0095,4.2
+F114,Organic Agro Store,Maharashtra,Wardha,Both,Organic Fertilizer Pesticide,9876501114,20.7465,78.6035,4.5
+F115,Kisan Crop Protection,Maharashtra,Chandrapur,Pesticide Shop,Pesticide Crop Medicine,9876501115,19.9630,79.2972,4.1
+F116,Agro Farmer Care,Maharashtra,Gadchiroli,Both,Fertilizer Seeds Pesticide,9876501116,20.1822,80.0045,4.0
+F117,Krushi Agro Care,Maharashtra,Dhule,Both,Fertilizer Seeds Pesticide,9876501117,20.9055,74.7760,4.2
+F118,Kisan Agro Growth,Maharashtra,Nandurbar,Fertilizer Shop,Fertilizer Seeds,9876501118,21.3670,74.2410,4.0
+F119,Green Agro Center,Maharashtra,Thane,Both,Fertilizer Seeds Pesticide,9876501119,19.2195,72.9790,4.3
+F120,Agro Crop Mart,Maharashtra,Palghar,Both,Fertilizer Seeds Pesticide,9876501120,19.6980,72.7710,4.2
+F121,Krushi Crop Store,Maharashtra,Ratnagiri,Both,Fertilizer Seeds Pesticide,9876501121,16.9915,73.3135,4.1
+F122,Farmer Agro Mart,Maharashtra,Sindhudurg,Both,Fertilizer Seeds Pesticide,9876501122,16.3505,73.5610,4.0
+F123,Green Agro Support,Maharashtra,Aurangabad,Both,Fertilizer Seeds Pesticide,9876501123,19.8775,75.3445,4.4
+F124,Kisan Agro Store,Maharashtra,Latur,Both,Fertilizer Seeds Pesticide,9876501124,18.4105,76.5620,4.2
+F125,Krushi Agro Hub,Maharashtra,Beed,Fertilizer Shop,Fertilizer Seeds,9876501125,18.9905,75.7615,4.0
+F126,Agro Crop Solutions,Maharashtra,Osmanabad,Both,Fertilizer Seeds Pesticide,9876501126,18.1875,76.0435,4.1
+F127,Kisan Farm Center,Maharashtra,Nanded,Both,Fertilizer Seeds Pesticide,9876501127,19.1395,77.3225,4.3
+F128,Green Field Agro,Maharashtra,Parbhani,Both,Fertilizer Seeds Pesticide,9876501128,19.2660,76.7755,4.2
+F129,Agro Growth Mart,Maharashtra,Washim,Fertilizer Shop,Fertilizer Seeds,9876501129,20.1125,77.1355,4.0
+F130,Kisan Agro City,Maharashtra,Mumbai,Both,Fertilizer Seeds Pesticide Tools,9876501130,19.0775,72.8790,4.4
+F131,Green Crop Center,Gujarat,Surat,Both,Fertilizer Seeds Pesticide,9876501131,21.1715,72.8325,4.2
+F132,Agro Farmer Support,Gujarat,Vadodara,Both,Fertilizer Seeds Pesticide,9876501132,22.3085,73.1825,4.3
+F133,Kisan Agro Mart,Gujarat,Rajkot,Both,Fertilizer Seeds Pesticide,9876501133,22.3055,70.8035,4.1
+F134,Krushi Agro Field,Gujarat,Ahmedabad,Both,Fertilizer Seeds Pesticide,9876501134,23.0240,72.5730,4.4
+F135,Green Agro Shop,Gujarat,Bhavnagar,Fertilizer Shop,Fertilizer Seeds,9876501135,21.7660,72.1535,4.0
+F136,Kisan Agro Hub,Karnataka,Belagavi,Both,Fertilizer Seeds Pesticide,9876501136,15.8510,74.4990,4.2
+F137,Agro Crop Care,Karnataka,Dharwad,Both,Fertilizer Seeds Pesticide,9876501137,15.4605,75.0095,4.1
+F138,Green Field Agro,Karnataka,Hubli,Both,Fertilizer Seeds Pesticide,9876501138,15.3660,75.1255,4.3
+F139,Kisan Crop Mart,Karnataka,Vijayapura,Both,Fertilizer Seeds Pesticide,9876501139,16.8315,75.7115,4.0
+F140,Farmer Agro Store,Karnataka,Gadag,Both,Fertilizer Seeds Pesticide,9876501140,15.4315,75.6355,4.1
+F141,Agro Farmer Hub,Madhya Pradesh,Indore,Both,Fertilizer Seeds Pesticide,9876501141,22.7215,75.8595,4.3
+F142,Kisan Crop Agro,Madhya Pradesh,Bhopal,Both,Fertilizer Seeds Pesticide,9876501142,23.2615,77.4140,4.4
+F143,Green Agro Care,Madhya Pradesh,Gwalior,Both,Fertilizer Seeds Pesticide,9876501143,26.2195,78.1840,4.2
+F144,Krushi Crop Center,Madhya Pradesh,Jabalpur,Both,Fertilizer Seeds Pesticide,9876501144,23.1830,79.9880,4.1
+F145,Kisan Agro Support,Madhya Pradesh,Ujjain,Both,Fertilizer Seeds Pesticide,9876501145,23.1780,75.7900,4.0
+F146,Agro Field Center,Punjab,Ludhiana,Both,Fertilizer Seeds Pesticide,9876501146,30.9015,75.8585,4.4
+F147,Kisan Agro Shop,Punjab,Amritsar,Both,Fertilizer Seeds Pesticide,9876501147,31.6355,74.8735,4.3
+F148,Green Crop Hub,Punjab,Patiala,Both,Fertilizer Seeds Pesticide,9876501148,30.3415,76.3885,4.2
+F149,Agro Farmer Mart,Haryana,Karnal,Both,Fertilizer Seeds Pesticide,9876501149,29.6875,76.9920,4.1
+F150,Kisan Crop Store,Haryana,Hisar,Both,Fertilizer Seeds Pesticide,9876501150,29.1505,75.7230,4.0

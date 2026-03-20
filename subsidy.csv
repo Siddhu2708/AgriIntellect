@@ -1,0 +1,151 @@
+scheme_id,scheme_name,state,district,crop_type,farmer_category,subsidy_type,subsidy_amount,subsidy_percentage,application_mode
+SCH-IND-001,PM-Kisan Samman Nidhi,Maharashtra,Nashik,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-002,Drip Irrigation Subsidy,Maharashtra,Nashik,Grapes,Small Farmers,Irrigation Equipment,50000,50,Online
+SCH-IND-003,Horticulture Development Scheme,Maharashtra,Nashik,Grapes,Small Farmers,Plantation Subsidy,35000,45,Online
+SCH-IND-004,Organic Farming Support,Maharashtra,Nashik,Vegetables,Small Farmers,Organic Subsidy,50000,60,Online
+SCH-IND-005,Seed Distribution Scheme,Maharashtra,Nashik,Wheat,Small Farmers,Seed Subsidy,8000,35,Offline
+SCH-IND-006,PM-Kisan Samman Nidhi,Maharashtra,Pune,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-007,Drip Irrigation Subsidy,Maharashtra,Pune,Vegetables,Small Farmers,Irrigation Equipment,52000,50,Online
+SCH-IND-008,Horticulture Development Scheme,Maharashtra,Pune,Vegetables,Small Farmers,Plantation Subsidy,32000,45,Online
+SCH-IND-009,Organic Farming Support,Maharashtra,Pune,Vegetables,Small Farmers,Organic Subsidy,48000,60,Online
+SCH-IND-010,Seed Distribution Scheme,Maharashtra,Pune,Rice,Small Farmers,Seed Subsidy,7500,35,Offline
+SCH-IND-011,PM-Kisan Samman Nidhi,Maharashtra,Nagpur,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-012,Drip Irrigation Subsidy,Maharashtra,Nagpur,Vegetables,Small Farmers,Irrigation Equipment,50000,50,Online
+SCH-IND-013,Horticulture Development Scheme,Maharashtra,Nagpur,Orange,Small Farmers,Plantation Subsidy,33000,45,Online
+SCH-IND-014,Organic Farming Support,Maharashtra,Nagpur,Vegetables,Small Farmers,Organic Subsidy,46000,60,Online
+SCH-IND-015,Seed Distribution Scheme,Maharashtra,Nagpur,Rice,Small Farmers,Seed Subsidy,7500,35,Offline
+SCH-IND-016,PM-Kisan Samman Nidhi,Maharashtra,Kolhapur,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-017,Drip Irrigation Subsidy,Maharashtra,Kolhapur,Sugarcane,Small Farmers,Irrigation Equipment,53000,50,Online
+SCH-IND-018,Horticulture Development Scheme,Maharashtra,Kolhapur,Vegetables,Small Farmers,Plantation Subsidy,31000,45,Online
+SCH-IND-019,Organic Farming Support,Maharashtra,Kolhapur,Vegetables,Small Farmers,Organic Subsidy,47000,60,Online
+SCH-IND-020,Seed Distribution Scheme,Maharashtra,Kolhapur,Rice,Small Farmers,Seed Subsidy,7600,35,Offline
+SCH-IND-021,PM-Kisan Samman Nidhi,Maharashtra,Satara,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-022,Drip Irrigation Subsidy,Maharashtra,Satara,Pomegranate,Small Farmers,Irrigation Equipment,52000,50,Online
+SCH-IND-023,Horticulture Development Scheme,Maharashtra,Satara,Pomegranate,Small Farmers,Plantation Subsidy,34000,45,Online
+SCH-IND-024,Organic Farming Support,Maharashtra,Satara,Vegetables,Small Farmers,Organic Subsidy,48000,60,Online
+SCH-IND-025,Seed Distribution Scheme,Maharashtra,Satara,Wheat,Small Farmers,Seed Subsidy,7700,35,Offline
+SCH-IND-026,PM-Kisan Samman Nidhi,Gujarat,Surat,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-027,Drip Irrigation Subsidy,Gujarat,Surat,Vegetables,Small Farmers,Irrigation Equipment,51000,50,Online
+SCH-IND-028,Horticulture Development Scheme,Gujarat,Surat,Banana,Small Farmers,Plantation Subsidy,33000,45,Online
+SCH-IND-029,Organic Farming Support,Gujarat,Surat,Vegetables,Small Farmers,Organic Subsidy,47000,60,Online
+SCH-IND-030,Seed Distribution Scheme,Gujarat,Surat,Wheat,Small Farmers,Seed Subsidy,7700,35,Offline
+SCH-IND-031,PM-Kisan Samman Nidhi,Gujarat,Vadodara,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-032,Drip Irrigation Subsidy,Gujarat,Vadodara,Vegetables,Small Farmers,Irrigation Equipment,52000,50,Online
+SCH-IND-033,Horticulture Development Scheme,Gujarat,Vadodara,Mango,Small Farmers,Plantation Subsidy,32000,45,Online
+SCH-IND-034,Organic Farming Support,Gujarat,Vadodara,Vegetables,Small Farmers,Organic Subsidy,46000,60,Online
+SCH-IND-035,Seed Distribution Scheme,Gujarat,Vadodara,Rice,Small Farmers,Seed Subsidy,7600,35,Offline
+SCH-IND-036,PM-Kisan Samman Nidhi,Karnataka,Mysuru,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-037,Drip Irrigation Subsidy,Karnataka,Mysuru,Vegetables,Small Farmers,Irrigation Equipment,50000,50,Online
+SCH-IND-038,Horticulture Development Scheme,Karnataka,Mysuru,Mango,Small Farmers,Plantation Subsidy,34000,45,Online
+SCH-IND-039,Organic Farming Support,Karnataka,Mysuru,Vegetables,Small Farmers,Organic Subsidy,47000,60,Online
+SCH-IND-040,Seed Distribution Scheme,Karnataka,Mysuru,Wheat,Small Farmers,Seed Subsidy,7800,35,Offline
+SCH-IND-041,PM-Kisan Samman Nidhi,Rajasthan,Jaipur,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-042,Drip Irrigation Subsidy,Rajasthan,Jaipur,Vegetables,Small Farmers,Irrigation Equipment,51000,50,Online
+SCH-IND-043,Horticulture Development Scheme,Rajasthan,Jaipur,Mustard,Small Farmers,Plantation Subsidy,30000,45,Online
+SCH-IND-044,Organic Farming Support,Rajasthan,Jaipur,Vegetables,Small Farmers,Organic Subsidy,46000,60,Online
+SCH-IND-045,Seed Distribution Scheme,Rajasthan,Jaipur,Wheat,Small Farmers,Seed Subsidy,7600,35,Offline
+SCH-IND-046,PM-Kisan Samman Nidhi,Uttar Pradesh,Lucknow,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-047,Drip Irrigation Subsidy,Uttar Pradesh,Lucknow,Vegetables,Small Farmers,Irrigation Equipment,50000,50,Online
+SCH-IND-048,Horticulture Development Scheme,Uttar Pradesh,Lucknow,Mango,Small Farmers,Plantation Subsidy,32000,45,Online
+SCH-IND-049,Organic Farming Support,Uttar Pradesh,Lucknow,Vegetables,Small Farmers,Organic Subsidy,47000,60,Online
+SCH-IND-050,Seed Distribution Scheme,Uttar Pradesh,Lucknow,Rice,Small Farmers,Seed Subsidy,7600,35,Offline
+SCH-IND-051,PM-Kisan Samman Nidhi,Uttar Pradesh,Kanpur,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-052,Drip Irrigation Subsidy,Uttar Pradesh,Kanpur,Vegetables,Small Farmers,Irrigation Equipment,50000,50,Online
+SCH-IND-053,Horticulture Development Scheme,Uttar Pradesh,Kanpur,Mango,Small Farmers,Plantation Subsidy,32000,45,Online
+SCH-IND-054,Organic Farming Support,Uttar Pradesh,Kanpur,Vegetables,Small Farmers,Organic Subsidy,47000,60,Online
+SCH-IND-055,Seed Distribution Scheme,Uttar Pradesh,Kanpur,Wheat,Small Farmers,Seed Subsidy,7600,35,Offline
+SCH-IND-056,PM-Kisan Samman Nidhi,Uttar Pradesh,Varanasi,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-057,Drip Irrigation Subsidy,Uttar Pradesh,Varanasi,Vegetables,Small Farmers,Irrigation Equipment,51000,50,Online
+SCH-IND-058,Horticulture Development Scheme,Uttar Pradesh,Varanasi,Mango,Small Farmers,Plantation Subsidy,33000,45,Online
+SCH-IND-059,Organic Farming Support,Uttar Pradesh,Varanasi,Vegetables,Small Farmers,Organic Subsidy,46000,60,Online
+SCH-IND-060,Seed Distribution Scheme,Uttar Pradesh,Varanasi,Rice,Small Farmers,Seed Subsidy,7700,35,Offline
+SCH-IND-061,PM-Kisan Samman Nidhi,Punjab,Amritsar,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-062,Drip Irrigation Subsidy,Punjab,Amritsar,Wheat,Small Farmers,Irrigation Equipment,52000,50,Online
+SCH-IND-063,Horticulture Development Scheme,Punjab,Amritsar,Vegetables,Small Farmers,Plantation Subsidy,31000,45,Online
+SCH-IND-064,Organic Farming Support,Punjab,Amritsar,Vegetables,Small Farmers,Organic Subsidy,47000,60,Online
+SCH-IND-065,Seed Distribution Scheme,Punjab,Amritsar,Wheat,Small Farmers,Seed Subsidy,7800,35,Offline
+SCH-IND-066,PM-Kisan Samman Nidhi,Punjab,Ludhiana,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-067,Drip Irrigation Subsidy,Punjab,Ludhiana,Wheat,Small Farmers,Irrigation Equipment,53000,50,Online
+SCH-IND-068,Horticulture Development Scheme,Punjab,Ludhiana,Vegetables,Small Farmers,Plantation Subsidy,32000,45,Online
+SCH-IND-069,Organic Farming Support,Punjab,Ludhiana,Vegetables,Small Farmers,Organic Subsidy,48000,60,Online
+SCH-IND-070,Seed Distribution Scheme,Punjab,Ludhiana,Wheat,Small Farmers,Seed Subsidy,7900,35,Offline
+SCH-IND-071,PM-Kisan Samman Nidhi,Madhya Pradesh,Indore,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-072,Drip Irrigation Subsidy,Madhya Pradesh,Indore,Soybean,Small Farmers,Irrigation Equipment,51000,50,Online
+SCH-IND-073,Horticulture Development Scheme,Madhya Pradesh,Indore,Vegetables,Small Farmers,Plantation Subsidy,33000,45,Online
+SCH-IND-074,Organic Farming Support,Madhya Pradesh,Indore,Vegetables,Small Farmers,Organic Subsidy,47000,60,Online
+SCH-IND-075,Seed Distribution Scheme,Madhya Pradesh,Indore,Wheat,Small Farmers,Seed Subsidy,7600,35,Offline
+SCH-IND-076,PM-Kisan Samman Nidhi,Madhya Pradesh,Bhopal,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-077,Drip Irrigation Subsidy,Madhya Pradesh,Bhopal,Soybean,Small Farmers,Irrigation Equipment,52000,50,Online
+SCH-IND-078,Horticulture Development Scheme,Madhya Pradesh,Bhopal,Vegetables,Small Farmers,Plantation Subsidy,32000,45,Online
+SCH-IND-079,Organic Farming Support,Madhya Pradesh,Bhopal,Vegetables,Small Farmers,Organic Subsidy,46000,60,Online
+SCH-IND-080,Seed Distribution Scheme,Madhya Pradesh,Bhopal,Wheat,Small Farmers,Seed Subsidy,7700,35,Offline
+SCH-IND-081,PM-Kisan Samman Nidhi,Tamil Nadu,Coimbatore,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-082,Drip Irrigation Subsidy,Tamil Nadu,Coimbatore,Banana,Small Farmers,Irrigation Equipment,54000,50,Online
+SCH-IND-083,Horticulture Development Scheme,Tamil Nadu,Coimbatore,Coconut,Small Farmers,Plantation Subsidy,34000,45,Online
+SCH-IND-084,Organic Farming Support,Tamil Nadu,Coimbatore,Vegetables,Small Farmers,Organic Subsidy,47000,60,Online
+SCH-IND-085,Seed Distribution Scheme,Tamil Nadu,Coimbatore,Rice,Small Farmers,Seed Subsidy,7500,35,Offline
+SCH-IND-086,PM-Kisan Samman Nidhi,Tamil Nadu,Madurai,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-087,Drip Irrigation Subsidy,Tamil Nadu,Madurai,Banana,Small Farmers,Irrigation Equipment,53000,50,Online
+SCH-IND-088,Horticulture Development Scheme,Tamil Nadu,Madurai,Mango,Small Farmers,Plantation Subsidy,33000,45,Online
+SCH-IND-089,Organic Farming Support,Tamil Nadu,Madurai,Vegetables,Small Farmers,Organic Subsidy,46000,60,Online
+SCH-IND-090,Seed Distribution Scheme,Tamil Nadu,Madurai,Rice,Small Farmers,Seed Subsidy,7600,35,Offline
+SCH-IND-091,PM-Kisan Samman Nidhi,Bihar,Patna,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-092,Drip Irrigation Subsidy,Bihar,Patna,Rice,Small Farmers,Irrigation Equipment,50000,50,Online
+SCH-IND-093,Horticulture Development Scheme,Bihar,Patna,Vegetables,Small Farmers,Plantation Subsidy,31000,45,Online
+SCH-IND-094,Organic Farming Support,Bihar,Patna,Vegetables,Small Farmers,Organic Subsidy,46000,60,Online
+SCH-IND-095,Seed Distribution Scheme,Bihar,Patna,Wheat,Small Farmers,Seed Subsidy,7500,35,Offline
+SCH-IND-096,PM-Kisan Samman Nidhi,Telangana,Hyderabad,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-097,Drip Irrigation Subsidy,Telangana,Hyderabad,Vegetables,Small Farmers,Irrigation Equipment,52000,50,Online
+SCH-IND-098,Horticulture Development Scheme,Telangana,Hyderabad,Mango,Small Farmers,Plantation Subsidy,33000,45,Online
+SCH-IND-099,Organic Farming Support,Telangana,Hyderabad,Vegetables,Small Farmers,Organic Subsidy,47000,60,Online
+SCH-IND-100,Seed Distribution Scheme,Telangana,Hyderabad,Rice,Small Farmers,Seed Subsidy,7600,35,Offline
+SCH-IND-101,PM-Kisan Samman Nidhi,Maharashtra,Ahmednagar,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-102,Drip Irrigation Subsidy,Maharashtra,Ahmednagar,Sugarcane,Small Farmers,Irrigation Equipment,52000,50,Online
+SCH-IND-103,Horticulture Development Scheme,Maharashtra,Ahmednagar,Pomegranate,Small Farmers,Plantation Subsidy,34000,45,Online
+SCH-IND-104,Organic Farming Support,Maharashtra,Ahmednagar,Vegetables,Small Farmers,Organic Subsidy,48000,60,Online
+SCH-IND-105,Seed Distribution Scheme,Maharashtra,Ahmednagar,Wheat,Small Farmers,Seed Subsidy,7700,35,Offline
+SCH-IND-106,PM-Kisan Samman Nidhi,Maharashtra,Jalgaon,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-107,Drip Irrigation Subsidy,Maharashtra,Jalgaon,Banana,Small Farmers,Irrigation Equipment,53000,50,Online
+SCH-IND-108,Horticulture Development Scheme,Maharashtra,Jalgaon,Banana,Small Farmers,Plantation Subsidy,35000,45,Online
+SCH-IND-109,Organic Farming Support,Maharashtra,Jalgaon,Vegetables,Small Farmers,Organic Subsidy,47000,60,Online
+SCH-IND-110,Seed Distribution Scheme,Maharashtra,Jalgaon,Wheat,Small Farmers,Seed Subsidy,7600,35,Offline
+SCH-IND-111,PM-Kisan Samman Nidhi,Maharashtra,Aurangabad,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-112,Drip Irrigation Subsidy,Maharashtra,Aurangabad,Vegetables,Small Farmers,Irrigation Equipment,51000,50,Online
+SCH-IND-113,Horticulture Development Scheme,Maharashtra,Aurangabad,Mango,Small Farmers,Plantation Subsidy,33000,45,Online
+SCH-IND-114,Organic Farming Support,Maharashtra,Aurangabad,Vegetables,Small Farmers,Organic Subsidy,46000,60,Online
+SCH-IND-115,Seed Distribution Scheme,Maharashtra,Aurangabad,Rice,Small Farmers,Seed Subsidy,7600,35,Offline
+SCH-IND-116,PM-Kisan Samman Nidhi,Maharashtra,Sangli,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-117,Drip Irrigation Subsidy,Maharashtra,Sangli,Sugarcane,Small Farmers,Irrigation Equipment,54000,50,Online
+SCH-IND-118,Horticulture Development Scheme,Maharashtra,Sangli,Turmeric,Small Farmers,Plantation Subsidy,32000,45,Online
+SCH-IND-119,Organic Farming Support,Maharashtra,Sangli,Vegetables,Small Farmers,Organic Subsidy,47000,60,Online
+SCH-IND-120,Seed Distribution Scheme,Maharashtra,Sangli,Rice,Small Farmers,Seed Subsidy,7500,35,Offline
+SCH-IND-121,PM-Kisan Samman Nidhi,Maharashtra,Solapur,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-122,Drip Irrigation Subsidy,Maharashtra,Solapur,Pomegranate,Small Farmers,Irrigation Equipment,52000,50,Online
+SCH-IND-123,Horticulture Development Scheme,Maharashtra,Solapur,Pomegranate,Small Farmers,Plantation Subsidy,34000,45,Online
+SCH-IND-124,Organic Farming Support,Maharashtra,Solapur,Vegetables,Small Farmers,Organic Subsidy,46000,60,Online
+SCH-IND-125,Seed Distribution Scheme,Maharashtra,Solapur,Wheat,Small Farmers,Seed Subsidy,7600,35,Offline
+SCH-IND-126,PM-Kisan Samman Nidhi,Maharashtra,Beed,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-127,Drip Irrigation Subsidy,Maharashtra,Beed,Vegetables,Small Farmers,Irrigation Equipment,50000,50,Online
+SCH-IND-128,Horticulture Development Scheme,Maharashtra,Beed,Pomegranate,Small Farmers,Plantation Subsidy,32000,45,Online
+SCH-IND-129,Organic Farming Support,Maharashtra,Beed,Vegetables,Small Farmers,Organic Subsidy,47000,60,Online
+SCH-IND-130,Seed Distribution Scheme,Maharashtra,Beed,Wheat,Small Farmers,Seed Subsidy,7500,35,Offline
+SCH-IND-131,PM-Kisan Samman Nidhi,Maharashtra,Latur,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-132,Drip Irrigation Subsidy,Maharashtra,Latur,Soybean,Small Farmers,Irrigation Equipment,51000,50,Online
+SCH-IND-133,Horticulture Development Scheme,Maharashtra,Latur,Vegetables,Small Farmers,Plantation Subsidy,32000,45,Online
+SCH-IND-134,Organic Farming Support,Maharashtra,Latur,Vegetables,Small Farmers,Organic Subsidy,46000,60,Online
+SCH-IND-135,Seed Distribution Scheme,Maharashtra,Latur,Soybean,Small Farmers,Seed Subsidy,7600,35,Offline
+SCH-IND-136,PM-Kisan Samman Nidhi,Maharashtra,Osmanabad,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-137,Drip Irrigation Subsidy,Maharashtra,Osmanabad,Soybean,Small Farmers,Irrigation Equipment,51000,50,Online
+SCH-IND-138,Horticulture Development Scheme,Maharashtra,Osmanabad,Vegetables,Small Farmers,Plantation Subsidy,31000,45,Online
+SCH-IND-139,Organic Farming Support,Maharashtra,Osmanabad,Vegetables,Small Farmers,Organic Subsidy,46000,60,Online
+SCH-IND-140,Seed Distribution Scheme,Maharashtra,Osmanabad,Wheat,Small Farmers,Seed Subsidy,7500,35,Offline
+SCH-IND-141,PM-Kisan Samman Nidhi,Maharashtra,Nanded,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-142,Drip Irrigation Subsidy,Maharashtra,Nanded,Cotton,Small Farmers,Irrigation Equipment,52000,50,Online
+SCH-IND-143,Horticulture Development Scheme,Maharashtra,Nanded,Vegetables,Small Farmers,Plantation Subsidy,32000,45,Online
+SCH-IND-144,Organic Farming Support,Maharashtra,Nanded,Vegetables,Small Farmers,Organic Subsidy,47000,60,Online
+SCH-IND-145,Seed Distribution Scheme,Maharashtra,Nanded,Cotton,Small Farmers,Seed Subsidy,7600,35,Offline
+SCH-IND-146,PM-Kisan Samman Nidhi,Maharashtra,Amravati,All Crops,Small and Marginal,Direct Benefit Transfer,6000,100,Online
+SCH-IND-147,Drip Irrigation Subsidy,Maharashtra,Amravati,Cotton,Small Farmers,Irrigation Equipment,52000,50,Online
+SCH-IND-148,Horticulture Development Scheme,Maharashtra,Amravati,Orange,Small Farmers,Plantation Subsidy,33000,45,Online
+SCH-IND-149,Organic Farming Support,Maharashtra,Amravati,Vegetables,Small Farmers,Organic Subsidy,46000,60,Online
+SCH-IND-150,Seed Distribution Scheme,Maharashtra,Amravati,Cotton,Small Farmers,Seed Subsidy,7600,35,Offline
