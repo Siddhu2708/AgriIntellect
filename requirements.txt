@@ -6,4 +6,4 @@ groq
 fpdf2
 numpy
 Pillow
-
+tensorflow
