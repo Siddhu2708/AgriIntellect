@@ -282,7 +282,7 @@ README.md
 
 # 📹 Demo
 
-Demo Video: [*(Add your YouTube/Loom link here)*](https://www.loom.com/share/0af011ec26b5410b80bc94046d9a9732)
+Demo Video: (https://www.loom.com/share/0af011ec26b5410b80bc94046d9a9732)
 
 ---
 
